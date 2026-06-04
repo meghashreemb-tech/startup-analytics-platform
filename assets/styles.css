@@ -1,1 +1,35 @@
+body {
+    background-color: #F5F7FA;
+}
 
+.main {
+    background-color: #F5F7FA;
+}
+
+h1 {
+    color: #0A66C2;
+    font-weight: bold;
+}
+
+h2 {
+    color: #1F2937;
+}
+
+[data-testid="metric-container"] {
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+}
+
+.stButton > button {
+    background-color: #0A66C2;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+
+.stDataFrame {
+    border-radius: 10px;
+}
